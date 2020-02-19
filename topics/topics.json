@@ -10,5 +10,11 @@
         "title": "UML Class",
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
+    },
+     {
+        "id": 3,
+        "title": "Реализация мини-приложения SPA, разработка UML Sequence",
+        "description": "Диаграмма классов",
+        "preview": "img/36d5das-960.jpg"
     }
 ]
